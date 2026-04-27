@@ -1,0 +1,1 @@
+INSERT INTO zleave VALUES ('EMP1','L1','Sick','2026-04-01','2026-04-02','Pending');
